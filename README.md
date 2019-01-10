@@ -1,5 +1,3 @@
-# Single-Pixel-Camera
-
 # Single Pixel Camera Using Compressed Sensing
 The Single Pixel Camera is a setup that uses the compressed sensing algorithm to reconstruct an
 image from a sparse matrix. In today’s world, Data Acquisition and Data Storage are the two

@@ -15,4 +15,4 @@
     pause(0.01);
     B(i,:) = A(:);  
   end
-  printf('Total cpu time: %f seconds\n', cputime-t);
+  printf('Total cpu time is: %f seconds\n', cputime-t);
